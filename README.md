@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/giovaniulrich/9b2b579f-2b73-494f-a771-734d05ab22bc/061bb551-89f6-4629-ada9-dc01355dcbc3/_apis/work/boardbadge/a50052fa-ee1a-4e6d-9c3e-8ce0d4c23862)](https://dev.azure.com/giovaniulrich/9b2b579f-2b73-494f-a771-734d05ab22bc/_boards/board/t/061bb551-89f6-4629-ada9-dc01355dcbc3/Microsoft.RequirementCategory)
 ---
 page_type: sample
 languages:
